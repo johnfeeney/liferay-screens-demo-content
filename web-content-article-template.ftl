@@ -179,4 +179,4 @@
    }
 </style>
 
-${webContent.getData()}
+${content.getData()}
